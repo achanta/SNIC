@@ -1,4 +1,4 @@
-# SNIC
+# SNIC superpixels
 
 This repository offers the code for the Simple Non-Iterative Clustering (SNIC) algorithm with a Python interface. One can produce superpixels for grey, color, as well as images with any other number of channels. A demo file is provided, which should be easy to use. When using for the first time, the C files need to be compiled using:
 ```
